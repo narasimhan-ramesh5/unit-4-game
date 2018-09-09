@@ -1,0 +1,61 @@
+.header{
+  overflow: hidden;
+  background-color:#D02090;
+  padding: 10px 10px;
+}
+
+.header h1{
+  color:white;
+  text-align:center;
+}
+
+
+#rules-card{
+  margin: 2rem auto;
+  float: none;
+  margin-bottom: 10px;
+
+  text-align:justify;
+  color:#D02090;
+  font-size:14px;
+
+  border-color:#D02090;
+  border-width:3px;
+}
+
+.scores{
+  margin:1rem auto;
+}
+
+#random-number-div{
+  background-color:#FFEFD5;
+  padding:5px 5px;
+  text-align:center;
+  font-size:20px;
+}
+
+#current-score-div{
+  margin-left:1rem;
+  background-color:#DA70D6;
+  color:white;
+  padding:5px 5px;
+  text-align:center;
+  font-size:20px;
+}
+
+.crystals{
+  margin:1rem auto;
+}
+
+.crystals input{
+  width:100%;
+}
+
+#wins-losses-div{
+  margin:1rem auto;
+  background-color:#D02090;
+  color:white;
+  text-align:center;
+  padding:3px 3px;
+  font-size:22px;
+}
